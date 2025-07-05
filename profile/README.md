@@ -106,7 +106,7 @@ To test the SkyLedger MVP:
     
 3. **Clone the FrontEnd Module and follow the instructions**
     ```bash
-    git clone -b production https://github.com/blockchain-unitn/skyledger-frontend.git
+    git clone -b production https://github.com/blockchain-unitn/skyLedger-frontend.git
     ```
     
 4. **Clone the Simulation UTM Backend Module and follow the instructions**
